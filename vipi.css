@@ -1,0 +1,112 @@
+/* <style> */
+    body {
+
+        margin: 0%;
+        padding: 0%;
+        background: url(univ.jpg);
+        height: 1200px;
+
+
+    }
+
+    .title {
+        text-align: center;
+
+        padding: 10px;
+        font-size: 30px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: 20px solid black;
+        width: 20%;
+        position: absolute;
+        display: inline-block;
+
+        color: black);
+        height: 60px;
+    }
+
+
+    .mid {
+
+
+        display: block;
+        width: 55%;
+        margin: 20px 340px;
+        display: inline block;
+        border: solid 2px black;
+        color: black;
+        height: 100px;
+        border-radius: 10px;
+
+
+    }
+
+    .right {
+
+        display: inline-block;
+        font-size: 20px;
+        padding: 20px 10px;
+        position: absolute;
+        top: 43px;
+        right: 20px;
+
+        color: black;
+        width: 280px;
+        height: 60px;
+        border-radius: 10px;
+
+
+    }
+
+    .navbar {
+        display: inline-block;
+
+    }
+
+
+    .navbar li {
+
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        display: inline-block;
+        color: black;
+        padding: 20px 20px;
+        font-size: 25px;
+    }
+
+    .navbar li a {
+        color: rgb(12, 11, 11);
+
+
+
+    }
+
+    .searchbox {
+        border-radius: 5px;
+    }
+
+    .navbar li a:hover,
+    .navbar li a.active {
+        text-decoration: underline;
+        color: gray;
+        cursor: pointer;
+    }
+
+    .title img {
+        width: 90px;
+        height: 90px;
+        padding: 1px 90px;
+    }
+
+    .right img {
+        height: 10px;
+        width: 10px;
+    }
+/* </style> */
+/* <style> */
+    .foot{ 
+        text-align: center;
+       margin-top: 900px;
+        font-size: 30px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        background-color: white;
+    }
+</style>

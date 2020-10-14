@@ -1,0 +1,89 @@
+body {
+ background: skyblue;
+ height: 500px;
+ width: 1500px;
+ 
+}
+.headtext{
+    text-align: center;
+    font-size: 15px;
+    border-bottom: black 2px solid;
+    text-shadow:1px 1px black ;
+}
+.frame{
+    position: absolute;
+    height: 630px;
+    border: 3px;
+    width: 1505px;
+    background: black;
+    
+    
+
+}
+
+
+
+.frame1{
+    position:relative;
+    height: 510px;
+    border: 3px;
+    width: 1465x;
+    background: rgb(245, 240, 240);
+    margin: 10px 10px;
+    border-radius: 5px;
+    
+
+}
+.buttons{
+    position: relative;;
+    height: 80px;
+    border: 3px;
+    width: 1465x;
+    background: rgb(245, 240, 240);
+    margin: 10px 10px;
+    border-radius: 5px;
+    
+}
+.input{
+    width: 1200px;
+    height: 60px;
+    margin: 5px 5px;
+    font-size: 20px;
+}
+.input:hover{
+    cursor: text;
+
+}
+
+.send{
+    position: relative;
+    display: inline-block;
+    padding: 5px 5px;
+    color:black;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-decoration: none;
+    font-size: 20px;
+    overflow: hidden;
+  
+    
+  }
+  
+  .send:hover {
+    color: #fefffe;
+    background: green;
+    box-shadow: 0 0 10px green, 0 0 40px green, 0 0 80px green;
+    cursor: pointer;
+  }
+  .img{
+    padding: 5px 5px;
+      height: 30px;
+      width: 30px;
+
+  }
+  .img:hover {
+    color: #fefffe;
+    background:  rgb(1, 130, 250);
+    box-shadow: 0 0 50px rgb(1, 130, 250), 0 0 50px  rgb(1, 130, 250), 0 0 50px  rgb(1, 130, 250);
+    cursor: pointer;
+  }
